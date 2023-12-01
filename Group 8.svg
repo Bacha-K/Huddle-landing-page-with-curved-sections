@@ -1,0 +1,22 @@
+<svg width="201" height="27" viewBox="0 0 201 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 8">
+<ellipse id="Oval Copy 4" cx="14.0866" cy="13.5986" rx="13.1102" ry="13.0625" fill="url(#paint0_linear_0_104)"/>
+<g id="Group 4 Copy">
+<rect id="Rectangle 4" x="44.3857" y="3.14859" width="33.5039" height="4.64444" rx="0.874016" fill="#E1E8EE"/>
+<rect id="Rectangle 4 Copy" x="44.3857" y="12.4375" width="116.535" height="2.32222" rx="0.874016" fill="#E1E8EE"/>
+<rect id="Rectangle 4 Copy 2" x="44.3857" y="17.0819" width="106.824" height="2.32222" rx="0.874016" fill="#E1E8EE"/>
+<rect id="Rectangle 4 Copy 3" x="44.3857" y="21.7264" width="97.1129" height="2.32222" rx="0.874016" fill="#E1E8EE"/>
+</g>
+<g id="Group 6 Copy">
+<ellipse id="Oval" cx="178.402" cy="13.5986" rx="3.49606" ry="3.48333" fill="#A7B9C8"/>
+<ellipse id="Oval Copy 5" cx="197.047" cy="13.5986" rx="3.49606" ry="3.48333" fill="#A7B9C8"/>
+<ellipse id="Oval Copy 3" cx="187.724" cy="13.5986" rx="3.49606" ry="3.48333" fill="#A7B9C8"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_104" x1="0.976318" y1="0.536102" x2="0.976318" y2="26.6611" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00C7FA"/>
+<stop offset="1" stop-color="#007DFA"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,642 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  width: 100vw;
+  min-height: 100vh;
+  background: #fff;
+  font-family: "Poppins" "Open Sans" sans-serif;
+}
+
+.main {
+  width: 100%;
+  padding-top: 24px;
+  padding-bottom: 42px;
+  align-items: center;
+  display: flex;
+}
+
+.head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 96px;
+  height: 16px;
+  margin-top: 28px;
+  margin-left: 24px;
+}
+
+.button {
+  margin-top: 24px;
+  margin-right: 24px;
+  width: 80px;
+  height: 23.529px;
+  border-radius: 11.765px;
+  border: 0.588px solid #ff52c1;
+  background: #fff;
+  box-shadow: 0px 0px 5px 0px rgba(255, 82, 193, 0.22);
+  text-align: center;
+}
+
+.pill {
+  color: #ff52c1;
+  font-family: "Open Sans", sans-serif;
+  font-size: 9.412px;
+  font-weight: 400;
+  line-height: normal;
+  background: none;
+  border: none;
+}
+
+.conteiner1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 116px;
+  padding: 0 40px;
+}
+
+.title {
+  color: #00252e;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.paragrap {
+  color: #00252e;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: 24px;
+}
+
+.pill1 {
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 18px;
+  background: none;
+  border: none;
+  padding: 11px 40px;
+  background-color: #ff52c1;
+  filter: drop-shadow(0px 3px 7px rgba(0, 37, 46, 0.22));
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 48px;
+}
+
+.conteiner2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 200px;
+  margin-top: 105px;
+}
+
+.card1 {
+  width: 279.685px;
+  height: 174.167px;
+  border-radius: 5.827px;
+  background: #fff;
+  box-shadow: 0px 0px 3px 0px rgba(0, 37, 46, 0.18);
+  margin-left: 41px;
+}
+
+.headborder {
+  width: 279.685px;
+  height: 18.578px;
+  border-radius: 5.827px 5.827px 0px 0px;
+  background: #00252e;
+  box-shadow: 0px 0px 3px 0px rgba(0, 37, 46, 0.18);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left {
+  width: 58.268px;
+  height: 6.967px;
+  border-radius: 1.457px;
+  background: #e1e8ee;
+  margin-left: 21px;
+}
+
+.right {
+  margin-right: 19px;
+}
+
+.rightbuton {
+  width: 9.323px;
+  height: 5.806px;
+}
+
+.orangecircle {
+  width: 219.087px;
+  height: 27.867px;
+  margin-top: 21.5px;
+  margin-left: 21px;
+}
+
+.bluecircle {
+  width: 219.087px;
+  height: 27.867px;
+  margin-top: 11.6px;
+  margin-left: 21px;
+}
+
+.purplecircle {
+  width: 219.087px;
+  height: 27.867px;
+  margin-top: 11.6px;
+  margin-left: 21px;
+}
+
+.card2 {
+  display: block;
+  margin-left: -77px;
+  margin-top: 100px;
+}
+.conteiner3 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 120px;
+  gap: 90px;
+}
+
+.stats1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon {
+  width: 35.556px;
+  height: 35.656px;
+  margin-right: 115px;
+}
+
+.number {
+  color: #00252e;
+  font-family: "Open Sans", sans-serif;
+  font-size: 60.952px;
+  font-weight: 700;
+  line-height: 91.429px;
+  margin-top: -10px;
+}
+
+.extra {
+  color: #808e9a;
+  font-size: 15.238px;
+  margin: 0;
+}
+
+.stats2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.add {
+  width: 27.317px;
+  height: 27.875px;
+}
+
+.one {
+  font-size: 53.519px;
+}
+
+.conteiner4 {
+  background-image: url("Path.jpg");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.pic1 {
+  width: 258.611px;
+  height: 211.556px;
+  margin-top: 90px;
+}
+
+.title1 {
+  margin-top: 74px;
+  color: #00252e;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.conteiner5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.pic1 {
+  width: 265.5px;
+  height: 189px;
+}
+
+.add1 {
+}
+.conteiner6 {
+  background-image: url("Path 5 Copy.png");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 25px;
+  margin-top: 120px;
+}
+
+.pic2 {
+  width: 267px;
+  height: 202px;
+  margin-top: 120px;
+}
+
+.conteiner7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.footer {
+  background-image: url(Path\ 4\ Copy.png);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 28px;
+  height: 840px;
+  margin-top: 250px;
+}
+
+.conteiner8 {
+}
+
+.footerhead {
+  margin-top: 109px;
+}
+
+.footertitle {
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.footerp {
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: 16px;
+}
+
+.inputbutton {
+  margin-top: 32px;
+}
+
+.inputfield {
+  width: 320px;
+  height: 48px;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.pill2 {
+  width: 160px;
+  height: 48px;
+  border-radius: 5px;
+  background: #ff52c1;
+  color: white;
+  margin-top: 16px;
+  margin-left: 160px;
+}
+
+.conteiner9 {
+  margin-top: 104px;
+}
+
+.logo2 {
+  width: 200px;
+  height: 32px;
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 40px;
+  gap: 16px;
+}
+
+.icon1 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+
+.icons {
+  margin-top: 85px;
+}
+
+@media (min-width: 1440px) {
+  .head {
+    padding: 80px 0 0 80px;
+  }
+
+  .logo {
+    margin: 0;
+    width: 240px;
+    height: 38px;
+  }
+  .button {
+    width: 240px;
+    height: 38px;
+    border-radius: 20px;
+    border: 1px solid #ff8ed7;
+    background: #fff;
+    box-shadow: 0px 0px 9px 0px rgba(255, 82, 193, 0.22);
+    text-align: center;
+    margin-right: 63px;
+    margin-top: 0;
+    padding: 9px 0;
+  }
+
+  .pill {
+    color: #ff8ed7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .button:hover {
+    cursor: pointer;
+    opacity: 0.5;
+  }
+
+  .conteiner1 {
+    margin-top: 226px;
+  }
+
+  .title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+  }
+
+  .paragrap {
+    font-size: 20px;
+    line-height: 30px;
+    width: 600px;
+  }
+
+  .pill1 {
+    width: 400px;
+    height: 80px;
+    filter: drop-shadow(0px 6px 13px rgba(0, 37, 46, 0.22));
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    border-radius: 40px;
+  }
+
+  .pill1:hover {
+    cursor: pointer;
+    opacity: 0.5;
+  }
+
+  .conteiner2 {
+    margin-top: 80px;
+    justify-content: center;
+    height: unset;
+  }
+
+  .card1 {
+    width: 960px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 37, 46, 0.18);
+  }
+  .headborder {
+    width: 960px;
+    height: 64px;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 37, 46, 0.18);
+  }
+  .left {
+    width: 200px;
+    height: 24px;
+    border-radius: 5px;
+    margin-left: 72px;
+  }
+  .right {
+    max-width: 100%;
+  }
+  .rightbuton {
+    width: 32px;
+    height: 20px;
+    margin-right: 44px;
+  }
+  .orangecircle {
+    margin-top: 74px;
+    margin-left: 72px;
+  }
+  .orange {
+    height: 96px;
+  }
+  .bluecircle {
+    margin-top: 100px;
+    margin-left: 72px;
+  }
+  .blue {
+    height: 96px;
+  }
+
+  .purplecircle {
+    margin-left: 72px;
+    margin-top: 105px;
+  }
+
+  .purple {
+    height: 96px;
+  }
+  .card2 {
+    margin-left: -243px;
+    margin-top: 300px;
+  }
+
+  .card2-2 {
+    width: 320px;
+    height: 512px;
+  }
+  .conteiner3 {
+    flex-direction: row;
+    gap: unset;
+  }
+
+  .icon {
+    width: 56px;
+    height: 56px;
+  }
+  .number {
+    font-size: 96px;
+    line-height: 144px;
+  }
+
+  .stats1 {
+    align-items: baseline;
+    margin-left: 350px;
+  }
+
+  .stats2 {
+    align-items: baseline;
+  }
+
+  .extra {
+    color: #808e9a;
+    text-align: start;
+    font-size: 24px;
+    font-style: normal;
+  }
+
+  .conteiner4 {
+    flex-direction: row-reverse;
+    background-image: url(Path\ 6.jpg);
+    background-size: cover;
+    gap: 150px;
+    margin-top: 60px;
+  }
+
+  .pic1 {
+    width: 517.222px;
+    height: 423.111px;
+  }
+
+  .textcon {
+  }
+
+  .title1 {
+    font-size: 40px;
+    line-height: 60px;
+    text-align: left;
+  }
+  .paragrap {
+    width: 520px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+
+  .adda {
+    text-align: center;
+  }
+
+  .conteiner5 {
+    flex-direction: row;
+    padding: 0;
+    gap: 150px;
+  }
+
+  .textcon1 {
+    align-self: center;
+    margin-top: 100px;
+  }
+
+  .conteiner6 {
+    background-image: url(Path\ 5.jpg);
+    background-size: cover;
+    flex-direction: row-reverse;
+    height: 800px;
+    gap: 150px;
+  }
+
+  .pic2 {
+    width: 534px;
+    height: 404px;
+    margin: 0;
+  }
+  .textcon2 {
+    align-items: center;
+  }
+
+  .add2 {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+
+  .footer {
+    background-image: url(Path\ 4.jpg);
+    flex-direction: row-reverse;
+    height: 720px;
+    justify-content: center;
+    gap: 340px;
+  }
+
+  .conteiner9 {
+    width: 320px;
+    margin-right: 120px;
+  }
+  .footerp {
+    height: 72px;
+  }
+  .conteiner8 {
+    margin-top: 25px;
+  }
+  .footertitle {
+    font-size: 24px;
+  }
+
+  .footerhead {
+    margin: 0;
+    width: 320px;
+  }
+
+  .inputbutton {
+    gap: 40px;
+  }
+
+  .pill2 {
+    margin: 0;
+    margin-left: 40px;
+    cursor: pointer;
+  }
+}
